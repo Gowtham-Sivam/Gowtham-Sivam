@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gowtham-sivam" alt="gowtham-sivam" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/https://twitter.com/gowthamsivams" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/gowthamsivams?logo=twitter&style=for-the-badge" alt="https://twitter.com/gowthamsivams" /></a> </p>
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently focused on **building Software Applications & AI/ML Research**
 
@@ -15,11 +15,10 @@
 
 - 📫 How to reach me **gowthamsivams@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1KUynBj_pvgRsACWCh39PR-8NNlfu8ZhU/view?usp=sharing](https://drive.google.com/file/d/1KUynBj_pvgRsACWCh39PR-8NNlfu8ZhU/view?usp=sharing)
+- 📄Resume [https://drive.google.com/file/d/1KUynBj_pvgRsACWCh39PR-8NNlfu8ZhU/view?usp=sharing](https://drive.google.com/file/d/1KUynBj_pvgRsACWCh39PR-8NNlfu8ZhU/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/https://twitter.com/gowthamsivams" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/gowthamsivams" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://linkedin.com/in/gowtham-sivam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/gowtham-sivam" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/10273463/gowtham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/10273463/gowtham" height="30" width="40" /></a>
 <a href="https://instagram.com/gowtham__sivam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gowtham__sivam" height="30" width="40" /></a>
